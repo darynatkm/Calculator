@@ -1,0 +1,48 @@
+.btn {
+    background-color: lightgrey;
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100px;
+    text-align: center;
+    border: 1px solid white;
+    line-height: 100px;
+}
+
+.btn-short {
+    width: 100px;
+}
+.btn-wide {
+    width: 202px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.line {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#displayLine {
+    width: 404px;
+    height: 100px;
+    border: 1px solid grey;
+    text-align: right;
+    line-height: 100px;
+    font-size: 50px;
+    color: grey;
+}
+
+.result {
+    width: 400px;
+    height: 100px;
+    border: 1px solid grey;
+    text-align: right;
+    line-height: 100px;
+    font-size: 50px;
+    color: grey;
+}
